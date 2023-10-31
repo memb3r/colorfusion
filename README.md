@@ -1,4 +1,7 @@
 # Colorfusion
+<p>
+  <img src="https://img.shields.io/github/repo-size/memb3r/colorfusion"> <img src="https://img.shields.io/github/languages/top/memb3r/colorfusion?color=green"> <img src="https://img.shields.io/github/last-commit/memb3r/colorfusion">
+</p>
 My first library for import colors. Idk how to publish libraries into pip, but anyway, you can use it.
 
 It's simple, because it's using ANSI Escape Codes and this codes are don't require any other libraries.
